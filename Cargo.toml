@@ -10,6 +10,6 @@ repository = "https://github.com/Connected-Dot/cnctd_android_project"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-anyhow = "1.0.75"
-colored = "2.0.4"
-regex = "1.9.5"
+anyhow = "1.0.82"
+colored = "2.1.0"
+regex = "1.10.4"
